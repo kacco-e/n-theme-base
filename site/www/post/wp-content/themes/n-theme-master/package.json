@@ -1,0 +1,14 @@
+{
+  "name": "n-theme",
+  "version": "1.0.0",
+  "author": "nakato <nakato@kacco-e.com>",
+  "homepage": "http://kacco-e.com",
+
+  "licenses": [{
+    "type": "MIT",
+    "url": "http://opensource.org/licenses/MIT"
+  }],
+  "engines": {
+    "node": ">= 0.10.0"
+  }
+}
